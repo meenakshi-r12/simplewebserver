@@ -37,9 +37,12 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
 
+127.0.0.1:5500
 
 ## OUTPUT:
 
+![WhatsApp Image 2025-03-10 at 20 35 20_a82a08c1](https://github.com/user-attachments/assets/481e7b72-3650-479e-9878-a5b70acb0293)
 
-## RESULT:
+## Result:
+
 The program for implementing simple webserver is executed successfully.
